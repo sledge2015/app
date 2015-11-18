@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_sign_out">登出</string>
+    <string name="action_settings">设置</string>
+    <string name="action_sign_in">登录/注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="error_invalid_password">密码太短</string>
+    <string name="error_invalid_email">邮箱地址不合法</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">字段不能为空</string>
+    <string name="app_name">说走就走</string>
+    <string name="title_activity_login">说走就走</string>
+    <string name="title_activity_splash">说走就走</string>
+    <string name="action_search">搜索</string>
+    <string name="fragment_title_contact">联系人</string>
+    <string name="fragment_title_itnerary">行程</string>
+    <string name="fragment_title_message">消息</string>
+    <string name="fragment_title_start">开始</string>
+    <string name="no_itinerary">当前还没有行程</string>
+</resources>
